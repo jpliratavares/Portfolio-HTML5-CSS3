@@ -1,24 +1,28 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
 }
 
 :root {
-    --color-1: #fff;
-    --color-2: #323643;
-    --color-3: #26ce66;
-    --color-4: #8DA9CE;
-    --color-5: #52687D;
-    --color-6: linear-gradient(0deg, rgba(74,222,226,1) 0%, rgba(118,115,255,1) 100%);
-    --color-7: rgba(74,222,226,1);
+  --color-1: #fff;
+  --color-2: #323643;
+  --color-3: #26ce66;
+  --color-4: #8da9ce;
+  --color-5: #52687d;
+  --color-6: linear-gradient(
+    0deg,
+    rgba(74, 222, 226, 1) 0%,
+    rgba(118, 115, 255, 1) 100%
+  );
+  --color-7: rgba(74, 222, 226, 1);
 }
 
 html,
 body {
-    width: 100vw;
-    height: 100vh;
-    font-family: 'Source Sans Pro', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Source Sans Pro", sans-serif;
 }
